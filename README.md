@@ -1,16 +1,52 @@
-# e_app
+# Flutter E-Commerce App
 
-A new Flutter project.
+A modern, responsive, and modular **e-commerce mobile application** built using **Flutter**. This app is designed to provide a smooth shopping experience, showcasing products with rich UI, intuitive navigation, and reusable components.
+
+
+## Project Goal
+
+To develop a full-featured e-commerce application with user-friendly design, responsive layout, and scalable architecture using Flutter and Dart.
+
+## Key Features (Frontend)
+
+- Product listing with cards/grid view
+- Product detail screen
+- Add to cart and cart preview UI
+- Product search bar (UI only)
+- Bottom navigation bar (Home, Cart, Profile, etc.)
+- Light/Dark mode ready
+- Responsive design for different screen sizes
+- Clean code and reusable widgets
+
+
+## Future Plans
+- User authentication (signup, login)
+- Product data from backend (Firebase or custom API)
+- Checkout and payment gateway integration
+- Push notifications
+- Admin dashboard for managing products and orders
+
+## Tech Stack
+
+- **Flutter** – UI and app structure
+- **Dart** – Programming language
+- **Provider / Riverpod** – (Planned for state management)
+- **Firebase / Node.js** – (Planned for backend)
+- **Android Studio** – Development environment
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Clone the Repository
 
-A few resources to get you started if this is your first Flutter project:
+git clone https://github.com/yourusername/flutter_ecommerce_app.git
+cd flutter_ecommerce_app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Install Dependencies
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the App
+flutter run
+
+Make sure a device or emulator is connected.
+
+
